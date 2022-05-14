@@ -1,0 +1,18 @@
+785.64
+Almond 250g	35.43	FOOD
+Milk	3.5	FOOD
+Red Fuji Apple	5.99	FOOD
+Eggs	3.99	FOOD
+FIJI Natural Artesian Water	25.98	FOOD
+Hershey's milk chocolate bars	8.54	FOOD
+Great Value Broccoli Florets	1.0	FOOD
+Keystone Ground Bee	6.28	FOOD
+Gildan LT	8.61	CLOTHES
+Men's Dual Defense Crew Socks 12 Pairs	13.0	CLOTHES
+Wrangler Men's Stretch Cargo Pant	19.97	CLOTHES
+LEGO DUPLO Town Farm Animals	10.1	ENTERTAINMENT
+Cinema	8.73	ENTERTAINMENT
+Skate rental	30.0	ENTERTAINMENT
+Sensodyne Pronamel Toothpaste	19.74	OTHER
+Chick-fil-A $10 Gift Card	10.0	OTHER
+Debt	3.5	OTHER

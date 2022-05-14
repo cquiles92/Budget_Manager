@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Budget Manager/task/build/
+/Budget Manager/task/out/production/classes/
+/Budget Manager/task/out/test/classes/
+/Topics/Objects/Accessing fields/out/
+/Topics/Objects/Accessing fields/out/production/classes/
+/Topics/Objects/Army/out/
+/Topics/Objects/Army/out/production/classes/
+/Topics/Objects/Change identities/out/
+/Topics/Objects/Change identities/out/production/classes/
+/Topics/Objects/Find reference types/out/
+/Topics/Objects/Find reference types/out/production/classes/
+/Topics/Objects/Immutability/out/
+/Topics/Objects/Immutability/out/production/classes/
+/Topics/Objects/Null or not/out/
+/Topics/Objects/Null or not/out/production/classes/
+/Topics/Objects/Theory/out/
+/Topics/Objects/Theory/out/production/classes/
+/Topics/Objects/What is my age/out/
+/Topics/Objects/What is my age/out/production/classes/
+/Topics/Objects/What is the value of a field/out/
+/Topics/Objects/What is the value of a field/out/production/classes/

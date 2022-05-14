@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Budget_Manager.Budget_Manager-task-build-classes-java.main" target="11" />
+      <module name="Budget_Manager.Budget_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Budget_Manager.Budget_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Budget_Manager.Budget_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Budget_Manager.Budget_Manager-task-build-test-results.main" target="11" />
+      <module name="Budget_Manager.Budget_Manager-task-build-tmp.main" target="11" />
+      <module name="Budget_Manager.Budget_Manager-task-out.main" target="11" />
+      <module name="Budget_Manager.Budget_Manager-task.main" target="11" />
+      <module name="Budget_Manager.Topics-Objects-Accessing_fields.main" target="11" />
+      <module name="Budget_Manager.Topics-Objects-Army.main" target="11" />
+      <module name="Budget_Manager.Topics-Objects-Change_identities.main" target="11" />
+      <module name="Budget_Manager.Topics-Objects-Find_reference_types.main" target="11" />
+      <module name="Budget_Manager.Topics-Objects-Immutability.main" target="11" />
+      <module name="Budget_Manager.Topics-Objects-Null_or_not.main" target="11" />
+      <module name="Budget_Manager.Topics-Objects-Theory.main" target="11" />
+      <module name="Budget_Manager.Topics-Objects-What_is_my_age.main" target="11" />
+      <module name="Budget_Manager.Topics-Objects-What_is_the_value_of_a_field.main" target="11" />
+      <module name="Budget_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
